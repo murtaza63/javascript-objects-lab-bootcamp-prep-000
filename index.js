@@ -1,3 +1,3 @@
-function updateObjectWithKeyValue(Object,key,value){
+function updateObjectWithKeyValue(object,key,value){
   
 }
